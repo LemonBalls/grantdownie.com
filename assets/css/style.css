@@ -1,0 +1,36 @@
+body {
+	background: #eeeeee;
+	width:100%;
+}
+
+#landingContainer {
+	background: #1de9b6;
+	text-align:center;
+	margin-top:1rem;
+	margin-bottom:1rem;
+	font-weight:bold;
+	border:2rem solid #64ffda;
+}
+
+.landingLogo {
+		font-size:13rem;
+}
+
+#notifyContainer {
+margin-top:5rem;
+height:auto;
+
+width:100%;
+}
+
+.tagline {
+border-right:1px solid #eee;
+border-left:1px solid #eee;
+text-align:center;
+background:white;
+}
+
+.brandSection {
+	background:red;
+	width:100%;
+}
